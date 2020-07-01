@@ -1,0 +1,27 @@
+.main{
+  color: white;
+}
+.io{
+	color:white;
+}
+.first{
+	float:left;
+	width: 74%;
+}
+.second{
+	float:right;
+	width: 24%;
+}
+.ots{
+	margin-left: 10px;
+}
+.down{
+	margin-top: 130px;
+	margin-left: 30px;
+}
+.thumb img  {
+    border: 2px solid #55c5e9;
+}
+.text{
+	text-align: center;
+}
